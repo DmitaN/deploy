@@ -1,0 +1,1 @@
+import{Mb as a,Tb as s,ra as o,tb as r,ub as i}from"./chunk-GPTLXEAQ.js";var m=(()=>{let e=class e{};e.\u0275fac=function(n){return new(n||e)},e.\u0275cmp=o({type:e,selectors:[["app-quick-order"]],standalone:!0,features:[s],decls:2,vars:0,template:function(n,p){n&1&&(r(0,"p"),a(1,"quick-order works!"),i())}});let t=e;return t})();export{m as QuickOrderComponent};
