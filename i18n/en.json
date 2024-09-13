@@ -1,4 +1,11 @@
 {
+  "MESSAGES": {
+    "TITLE": {
+      "WARNING": "Warning",
+      "SUCCESS": "Success",
+      "ERROR": "Error"
+    }
+  },
   "GENERAL": {
     "TOOLBAR": {
       "QUICK_ORDER": "Quick order",

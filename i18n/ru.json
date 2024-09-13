@@ -1,4 +1,11 @@
 {
+  "MESSAGES": {
+    "TITLE": {
+      "WARNING": "Внимание",
+      "SUCCESS": "Успешно",
+      "ERROR": "Ошибка"
+    }
+  },
   "GENERAL": {
     "TOOLBAR": {
       "QUICK_ORDER": "Быстрый заказ",
