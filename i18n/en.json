@@ -26,7 +26,47 @@
         "TITLE": "Auth",
         "LOGIN": "Login page",
         "ACCESS": "Access page",
-        "ERROR": "Error page"
+        "ERROR": "Error page",
+        "REGISTER": "Register page",
+        "FORGOT_PASSWORD": "Forgot password page",
+        "NEW_PASSWORD": "New password page",
+        "LOCK_SCREEN": "Screen Locked page",
+        "VERIFICATION": "Verification page",
+        "TITLES": {
+          "LOGIN": "Welcome",
+          "ACCESS": "Access",
+          "ERROR": "Error",
+          "REGISTER": "Register",
+          "FORGOT_PASSWORD": "Forgot Password",
+          "NEW_PASSWORD": "New Password",
+          "LOCK_SCREEN": "Lock Screen",
+          "VERIFICATION": "Verification"
+        },
+        "SUBTITLES": {
+          "LOGIN": "Sign in to continue",
+          "REGISTER": "Let's get started",
+          "FORGOT_PASSWORD": "Enter your email to reset your password",
+          "NEW_PASSWORD": "Enter your new password",
+          "LOCK_SCREEN": "Sign in to continue",
+          "VERIFICATION": "We have sent code to you email:"
+        },
+        "LABELS": {
+          "USERNAME": "Username",
+          "PASSWORD": "Password",
+          "PASSWORD_CONFIRM": "Password confirmation"
+        },
+        "BUTTONS": {
+          "CANCEL": "Cancel",
+          "SUBMIT": "Submit",
+          "UNLOCK": "Unlock",
+          "SIGN_IN": "Sign In",
+          "SIGN_UP": "Sign Up",
+          "FORGOT_PASSWORD": "Forgot password?",
+          "REMEMBER": "Remember me",
+          "TERMS": "I have read the Terms and Conditions",
+          "IS_ALREADY_ACCOUNT_EXIST": "Already have an account?",
+          "LOGIN": "Login"
+        }
       },
       "CATALOG": {
         "TITLE": "Catalog",

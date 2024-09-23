@@ -1,2 +1,0 @@
-import{Mb as r,Ob as s,Tb as c,Xa as o,ra as u,tb as a,ub as i}from"./chunk-GPTLXEAQ.js";var l=(()=>{let e=class e{};e.\u0275fac=function(t){return new(t||e)},e.\u0275cmp=u({type:e,selectors:[["app-not-found"]],standalone:!0,features:[c],decls:2,vars:1,consts:[[1,"catalog","flex","flex-wrap","gap-2","mb-4","justify-content-around"]],template:function(t,d){t&1&&(a(0,"div",0),r(1),i()),t&2&&(o(),s(" ","\u0418\u043D\u0444\u043E\u0440\u043C\u0430\u0446\u0438\u044F \u043D\u0435 \u043D\u0430\u0439\u0434\u0435\u043D\u0430",`
-`))}});let n=e;return n})();export{l as a};

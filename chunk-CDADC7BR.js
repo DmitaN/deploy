@@ -1,0 +1,2 @@
+import{Mb as i,Ob as r,Tb as p,Xa as o,ra as n,tb as u,ub as a}from"./chunk-ERNPZIPW.js";var f=(()=>{class t{static{this.\u0275fac=function(e){return new(e||t)}}static{this.\u0275cmp=n({type:t,selectors:[["app-not-found"]],standalone:!0,features:[p],decls:2,vars:1,consts:[[1,"catalog","flex","flex-wrap","gap-2","mb-4","justify-content-around"]],template:function(e,s){e&1&&(u(0,"div",0),i(1),a()),e&2&&(o(),r(" ","\u0418\u043D\u0444\u043E\u0440\u043C\u0430\u0446\u0438\u044F \u043D\u0435 \u043D\u0430\u0439\u0434\u0435\u043D\u0430",`
+`))}})}}return t})();export{f as a};
